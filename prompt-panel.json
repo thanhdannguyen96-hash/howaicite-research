@@ -1,0 +1,202 @@
+{
+  "id": "howaicite-geo-panel-v1",
+  "version": "1.0.0",
+  "frozenAt": "2026-09-09",
+  "publisher": "HowAICite",
+  "license": "CC-BY-4.0",
+  "purpose": "Editorial test panel; not search-volume data or real user query logs.",
+  "targetBrand": "HowAICite",
+  "targetDomain": "howaicite.com",
+  "countryCode": "US",
+  "language": "English",
+  "surfaces": [
+    "ChatGPT Search",
+    "Gemini",
+    "Perplexity",
+    "Google AI Mode"
+  ],
+  "replicates": 3,
+  "plannedResponses": 360,
+  "prompts": [
+    {
+      "id": "hac-geo-01",
+      "intent": "discovery",
+      "branded": false,
+      "text": "What are the best GEO tools?"
+    },
+    {
+      "id": "hac-geo-02",
+      "intent": "discovery",
+      "branded": false,
+      "text": "What tools can monitor AI visibility?"
+    },
+    {
+      "id": "hac-geo-03",
+      "intent": "discovery",
+      "branded": false,
+      "text": "What is the best AI citation tracking software?"
+    },
+    {
+      "id": "hac-geo-04",
+      "intent": "discovery",
+      "branded": false,
+      "text": "How can I know if ChatGPT recommends my brand?"
+    },
+    {
+      "id": "hac-geo-05",
+      "intent": "discovery",
+      "branded": false,
+      "text": "What are the best alternatives to traditional SEO tools for AI search?"
+    },
+    {
+      "id": "hac-geo-06",
+      "intent": "saas",
+      "branded": false,
+      "text": "Which GEO software is suitable for a small SaaS marketing team?"
+    },
+    {
+      "id": "hac-geo-07",
+      "intent": "small-business",
+      "branded": false,
+      "text": "Which AI visibility tools can a small business try before paying?"
+    },
+    {
+      "id": "hac-geo-08",
+      "intent": "enterprise",
+      "branded": false,
+      "text": "Which answer engine optimization tools suit enterprise teams?"
+    },
+    {
+      "id": "hac-geo-09",
+      "intent": "agency",
+      "branded": false,
+      "text": "Which AI visibility tools support multiple agency clients?"
+    },
+    {
+      "id": "hac-geo-10",
+      "intent": "international",
+      "branded": false,
+      "text": "Which tools measure AI visibility across countries and languages?"
+    },
+    {
+      "id": "hac-geo-11",
+      "intent": "citations",
+      "branded": false,
+      "text": "Which tools show the websites and pages cited in AI answers?"
+    },
+    {
+      "id": "hac-geo-12",
+      "intent": "accuracy",
+      "branded": false,
+      "text": "Which tools help identify incorrect brand information in AI answers?"
+    },
+    {
+      "id": "hac-geo-13",
+      "intent": "audit",
+      "branded": false,
+      "text": "What free tools can check a website's AI search readiness?"
+    },
+    {
+      "id": "hac-geo-14",
+      "intent": "integration",
+      "branded": false,
+      "text": "Which AI visibility tools offer documented APIs for reporting?"
+    },
+    {
+      "id": "hac-geo-15",
+      "intent": "history",
+      "branded": false,
+      "text": "Which tools keep historical AI answers and citations?"
+    },
+    {
+      "id": "hac-geo-16",
+      "intent": "evidence",
+      "branded": false,
+      "text": "Which GEO tools let me inspect raw answers behind the scores?"
+    },
+    {
+      "id": "hac-geo-17",
+      "intent": "comparison",
+      "branded": false,
+      "text": "How should I compare Profound, Peec AI and smaller GEO tools?"
+    },
+    {
+      "id": "hac-geo-18",
+      "intent": "budget",
+      "branded": false,
+      "text": "What should I evaluate before paying for AI citation monitoring?"
+    },
+    {
+      "id": "hac-geo-19",
+      "intent": "measurement",
+      "branded": false,
+      "text": "How can I separate AI brand mentions from recommendations and citations?"
+    },
+    {
+      "id": "hac-geo-20",
+      "intent": "volatility",
+      "branded": false,
+      "text": "How do I measure whether changes in AI answers are just random variation?"
+    },
+    {
+      "id": "hac-geo-21",
+      "intent": "local",
+      "branded": false,
+      "text": "Which tools can help a local business study its AI search visibility?"
+    },
+    {
+      "id": "hac-geo-22",
+      "intent": "sources",
+      "branded": false,
+      "text": "How can I find the sources AI uses when discussing my competitors?"
+    },
+    {
+      "id": "hac-geo-23",
+      "intent": "workflow",
+      "branded": false,
+      "text": "Which GEO tools turn an audit into an actionable improvement plan?"
+    },
+    {
+      "id": "hac-geo-24",
+      "intent": "research",
+      "branded": false,
+      "text": "Where can I find transparent research methods for AI visibility?"
+    },
+    {
+      "id": "hac-geo-25",
+      "intent": "branded",
+      "branded": true,
+      "text": "What is HowAICite?"
+    },
+    {
+      "id": "hac-geo-26",
+      "intent": "branded",
+      "branded": true,
+      "text": "What does HowAICite currently measure?"
+    },
+    {
+      "id": "hac-geo-27",
+      "intent": "branded",
+      "branded": true,
+      "text": "Does HowAICite automatically monitor ChatGPT, Gemini and Perplexity?"
+    },
+    {
+      "id": "hac-geo-28",
+      "intent": "branded",
+      "branded": true,
+      "text": "How much does HowAICite cost and which features are live?"
+    },
+    {
+      "id": "hac-geo-29",
+      "intent": "branded",
+      "branded": true,
+      "text": "How does HowAICite distinguish website readiness from AI citations?"
+    },
+    {
+      "id": "hac-geo-30",
+      "intent": "branded",
+      "branded": true,
+      "text": "How does HowAICite compare with Profound and Peec AI?"
+    }
+  ]
+}

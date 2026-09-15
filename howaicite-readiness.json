@@ -1,0 +1,298 @@
+{
+  "version": "1.0.0",
+  "kind": "website-readiness-audits",
+  "publisher": "HowAICite",
+  "scope": "Public pages owned by HowAICite",
+  "collectedAt": "2026-09-09T13:50:47.028Z",
+  "releaseObserved": "20260909-billing24",
+  "license": "CC-BY-4.0",
+  "limitations": [
+    "Historical pre-update snapshots; they do not describe the latest page HTML.",
+    "Technical diagnostic scores are not AI visibility, recommendation or citation probabilities.",
+    "No customer reports or third-party brand observations are included."
+  ],
+  "reports": [
+    {
+      "id": "5ad4a998-dfbe-4d65-897e-b51b081cd6e4",
+      "url": "https://howaicite.com/",
+      "brand": "HowAICite",
+      "industry": "GEO software",
+      "market": "Global / no country",
+      "countryCode": "GLOBAL",
+      "language": "English",
+      "createdAt": "2026-09-09T13:50:47.028Z",
+      "score": 100,
+      "title": "HowAICite — AI Citation Intelligence",
+      "words": 364,
+      "findings": [
+        {
+          "id": "title",
+          "title": "Page title",
+          "status": "pass",
+          "evidence": "HowAICite — AI Citation Intelligence",
+          "action": "Write a descriptive title that names the business and page purpose."
+        },
+        {
+          "id": "description",
+          "title": "Search description",
+          "status": "pass",
+          "evidence": "Audit your website with real HTML and crawler checks, evidence-backed recommendations, and saved reports.",
+          "action": "Add a useful summary; this is an editorial improvement, not an AI citation guarantee."
+        },
+        {
+          "id": "headings",
+          "title": "Main heading",
+          "status": "pass",
+          "evidence": "1 H1 heading(s) found.",
+          "action": "Use one clear main heading and organize sections with descriptive subheadings."
+        },
+        {
+          "id": "index",
+          "title": "Indexing directives",
+          "status": "pass",
+          "evidence": "  ",
+          "action": "Remove unintended noindex directives from public pages you want discoverable."
+        },
+        {
+          "id": "canonical",
+          "title": "Canonical URL",
+          "status": "pass",
+          "evidence": "https://howaicite.com",
+          "action": "Declare the preferred URL to clarify duplicate-page handling."
+        },
+        {
+          "id": "content",
+          "title": "Initial HTML content",
+          "status": "pass",
+          "evidence": "364 words observed outside scripts, navigation and footer. The 100-word threshold is a diagnostic heuristic.",
+          "action": "Ensure useful page information is available without running JavaScript. Add substance only when needed."
+        },
+        {
+          "id": "schema",
+          "title": "Structured data",
+          "status": "pass",
+          "evidence": "1 parseable JSON-LD block(s). Semantic schema validity is not tested.",
+          "action": "Consider relevant Organization or service structured data. Special AI schema is not required."
+        },
+        {
+          "id": "OAI-SearchBot",
+          "title": "OAI-SearchBot access",
+          "status": "pass",
+          "evidence": "No disallow rule matched this URL. Firewall and actual bot access are not verified.",
+          "action": "Review robots.txt and firewall settings for the crawler you intend to allow."
+        },
+        {
+          "id": "Googlebot",
+          "title": "Googlebot access",
+          "status": "pass",
+          "evidence": "No disallow rule matched this URL. Firewall and actual bot access are not verified.",
+          "action": "Review robots.txt and firewall settings for the crawler you intend to allow."
+        },
+        {
+          "id": "PerplexityBot",
+          "title": "PerplexityBot access",
+          "status": "pass",
+          "evidence": "No disallow rule matched this URL. Firewall and actual bot access are not verified.",
+          "action": "Review robots.txt and firewall settings for the crawler you intend to allow."
+        }
+      ],
+      "version": "readiness-1.0",
+      "prompts": [
+        "Which GEO software providers should I compare?",
+        "What are the best alternatives to HowAICite?",
+        "What should I consider before choosing a GEO software provider?",
+        "What does HowAICite offer, and who is it best for?",
+        "What are the pricing and limitations of HowAICite?",
+        "Which independent sources review HowAICite?"
+      ]
+    },
+    {
+      "id": "7d2cf531-51e0-4e8d-9ed4-4b482c6914f2",
+      "url": "https://howaicite.com/pricing",
+      "brand": "HowAICite",
+      "industry": "GEO software",
+      "market": "Global / no country",
+      "countryCode": "GLOBAL",
+      "language": "English",
+      "createdAt": "2026-09-09T13:50:47.370Z",
+      "score": 100,
+      "title": "Pricing | HowAICite",
+      "words": 345,
+      "findings": [
+        {
+          "id": "title",
+          "title": "Page title",
+          "status": "pass",
+          "evidence": "Pricing | HowAICite",
+          "action": "Write a descriptive title that names the business and page purpose."
+        },
+        {
+          "id": "description",
+          "title": "Search description",
+          "status": "pass",
+          "evidence": "AI citation intelligence plans for brands, growth teams and agencies. Pricing scales with tracked questions, websites and measurement depth.",
+          "action": "Add a useful summary; this is an editorial improvement, not an AI citation guarantee."
+        },
+        {
+          "id": "headings",
+          "title": "Main heading",
+          "status": "pass",
+          "evidence": "1 H1 heading(s) found.",
+          "action": "Use one clear main heading and organize sections with descriptive subheadings."
+        },
+        {
+          "id": "index",
+          "title": "Indexing directives",
+          "status": "pass",
+          "evidence": "  ",
+          "action": "Remove unintended noindex directives from public pages you want discoverable."
+        },
+        {
+          "id": "canonical",
+          "title": "Canonical URL",
+          "status": "pass",
+          "evidence": "https://howaicite.com/pricing",
+          "action": "Declare the preferred URL to clarify duplicate-page handling."
+        },
+        {
+          "id": "content",
+          "title": "Initial HTML content",
+          "status": "pass",
+          "evidence": "345 words observed outside scripts, navigation and footer. The 100-word threshold is a diagnostic heuristic.",
+          "action": "Ensure useful page information is available without running JavaScript. Add substance only when needed."
+        },
+        {
+          "id": "schema",
+          "title": "Structured data",
+          "status": "pass",
+          "evidence": "1 parseable JSON-LD block(s). Semantic schema validity is not tested.",
+          "action": "Consider relevant Organization or service structured data. Special AI schema is not required."
+        },
+        {
+          "id": "OAI-SearchBot",
+          "title": "OAI-SearchBot access",
+          "status": "pass",
+          "evidence": "No disallow rule matched this URL. Firewall and actual bot access are not verified.",
+          "action": "Review robots.txt and firewall settings for the crawler you intend to allow."
+        },
+        {
+          "id": "Googlebot",
+          "title": "Googlebot access",
+          "status": "pass",
+          "evidence": "No disallow rule matched this URL. Firewall and actual bot access are not verified.",
+          "action": "Review robots.txt and firewall settings for the crawler you intend to allow."
+        },
+        {
+          "id": "PerplexityBot",
+          "title": "PerplexityBot access",
+          "status": "pass",
+          "evidence": "No disallow rule matched this URL. Firewall and actual bot access are not verified.",
+          "action": "Review robots.txt and firewall settings for the crawler you intend to allow."
+        }
+      ],
+      "version": "readiness-1.0",
+      "prompts": [
+        "Which GEO software providers should I compare?",
+        "What are the best alternatives to HowAICite?",
+        "What should I consider before choosing a GEO software provider?",
+        "What does HowAICite offer, and who is it best for?",
+        "What are the pricing and limitations of HowAICite?",
+        "Which independent sources review HowAICite?"
+      ]
+    },
+    {
+      "id": "8b6b40b6-07ed-4cfd-aa00-dfbf90dcb1aa",
+      "url": "https://howaicite.com/methodology",
+      "brand": "HowAICite",
+      "industry": "GEO software",
+      "market": "Global / no country",
+      "countryCode": "GLOBAL",
+      "language": "English",
+      "createdAt": "2026-09-09T13:50:47.897Z",
+      "score": 100,
+      "title": "Audit methodology | HowAICite",
+      "words": 370,
+      "findings": [
+        {
+          "id": "title",
+          "title": "Page title",
+          "status": "pass",
+          "evidence": "Audit methodology | HowAICite",
+          "action": "Write a descriptive title that names the business and page purpose."
+        },
+        {
+          "id": "description",
+          "title": "Search description",
+          "status": "pass",
+          "evidence": "Audit your website with real HTML and crawler checks, evidence-backed recommendations, and saved reports.",
+          "action": "Add a useful summary; this is an editorial improvement, not an AI citation guarantee."
+        },
+        {
+          "id": "headings",
+          "title": "Main heading",
+          "status": "pass",
+          "evidence": "1 H1 heading(s) found.",
+          "action": "Use one clear main heading and organize sections with descriptive subheadings."
+        },
+        {
+          "id": "index",
+          "title": "Indexing directives",
+          "status": "pass",
+          "evidence": "  ",
+          "action": "Remove unintended noindex directives from public pages you want discoverable."
+        },
+        {
+          "id": "canonical",
+          "title": "Canonical URL",
+          "status": "pass",
+          "evidence": "https://howaicite.com/methodology",
+          "action": "Declare the preferred URL to clarify duplicate-page handling."
+        },
+        {
+          "id": "content",
+          "title": "Initial HTML content",
+          "status": "pass",
+          "evidence": "370 words observed outside scripts, navigation and footer. The 100-word threshold is a diagnostic heuristic.",
+          "action": "Ensure useful page information is available without running JavaScript. Add substance only when needed."
+        },
+        {
+          "id": "schema",
+          "title": "Structured data",
+          "status": "pass",
+          "evidence": "1 parseable JSON-LD block(s). Semantic schema validity is not tested.",
+          "action": "Consider relevant Organization or service structured data. Special AI schema is not required."
+        },
+        {
+          "id": "OAI-SearchBot",
+          "title": "OAI-SearchBot access",
+          "status": "pass",
+          "evidence": "No disallow rule matched this URL. Firewall and actual bot access are not verified.",
+          "action": "Review robots.txt and firewall settings for the crawler you intend to allow."
+        },
+        {
+          "id": "Googlebot",
+          "title": "Googlebot access",
+          "status": "pass",
+          "evidence": "No disallow rule matched this URL. Firewall and actual bot access are not verified.",
+          "action": "Review robots.txt and firewall settings for the crawler you intend to allow."
+        },
+        {
+          "id": "PerplexityBot",
+          "title": "PerplexityBot access",
+          "status": "pass",
+          "evidence": "No disallow rule matched this URL. Firewall and actual bot access are not verified.",
+          "action": "Review robots.txt and firewall settings for the crawler you intend to allow."
+        }
+      ],
+      "version": "readiness-1.0",
+      "prompts": [
+        "Which GEO software providers should I compare?",
+        "What are the best alternatives to HowAICite?",
+        "What should I consider before choosing a GEO software provider?",
+        "What does HowAICite offer, and who is it best for?",
+        "What are the pricing and limitations of HowAICite?",
+        "Which independent sources review HowAICite?"
+      ]
+    }
+  ]
+}

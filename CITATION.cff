@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this research kit, please cite it using the metadata below."
+title: "HowAICite Recommendation-Citation Gap Research Kit"
+type: dataset
+version: 1.0.0
+date-released: 2026-09-09
+authors:
+  - name: "HowAICite"
+abstract: "A frozen prompt panel, observation schema and deterministic analysis tool for separating AI brand mentions, recommendations and citations. This release contains no collected AI-answer observations."
+keywords:
+  - generative engine optimization
+  - AI visibility
+  - AI citations
+  - AI search
+license: CC-BY-4.0
+repository-code: "https://github.com/thanhdannguyen96-hash/howaicite-research"
+url: "https://howaicite.com/research/recommendation-citation-gap"
