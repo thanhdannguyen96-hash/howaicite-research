@@ -7,17 +7,23 @@ Reproducible methods for separating **AI brand mentions**, **recommendations** a
 ## Current release
 
 **Version:** 1.0.0  
-**Status:** Protocol and analysis tool published; no AI-answer observations collected  
+**Status:** Protocol and analysis tool published; internal API self-GEO collection is underway; no AI-answer observations are public  
 **Scope:** United States, English, 30 frozen questions, four consumer surfaces, three planned replicates  
 **Publisher:** HowAICite, the AI citation intelligence product in HowAI Suite
 
-This release contains a research protocol, an editorial prompt panel and a deterministic analysis tool. It does **not** contain an AI visibility benchmark. An empty observations file returns `not-collected`, never a fabricated 0% result.
+This release contains a research protocol, an editorial prompt panel and a deterministic analysis tool. It does **not** contain an AI visibility benchmark. HowAICite began a separate, quota-controlled internal API collection on September 20, 2026. Those observations remain private until the review and publication gates in [`SELF-GEO-PROTOCOL.md`](SELF-GEO-PROTOCOL.md) are satisfied. An empty public observations file returns `not-collected`, never a fabricated 0% result.
+
+## Live self-GEO collection
+
+HowAICite is also an explicit subject of its own research. The current operational panel uses six unbranded US-English buyer questions across provider APIs. API observations remain separate from the 30-question consumer-surface protocol and may not be published as consumer-chatbot results. See [`SELF-GEO-PROTOCOL.md`](SELF-GEO-PROTOCOL.md) and [`DATA-PUBLISHING-POLICY.md`](DATA-PUBLISHING-POLICY.md).
 
 ## Repository contents
 
 | File | Purpose |
 | --- | --- |
-| `prompt-panel.json` | Frozen 30-question evaluation panel |
+| `prompt-panel.json` | Frozen 30-question consumer-surface evaluation panel |
+| `SELF-GEO-PROTOCOL.md` | Scope and publication gates for operational self-measurement |
+| `DATA-PUBLISHING-POLICY.md` | Rules for releasing aggregate or reviewed data |
 | `observations.json` | Intentionally empty observation dataset |
 | `metrics.mjs` | Local, deterministic metric calculator |
 | `howaicite-readiness.json` | Historical HTML-readiness snapshots of HowAICite-owned pages |
@@ -87,4 +93,4 @@ Suggested citation:
 
 > HowAICite. *Recommendation–Citation Gap Protocol*, version 1.0.0. September 9, 2026. https://howaicite.com/research/recommendation-citation-gap
 
-Questions and responsible disclosure: [hello@howaicite.com](mailto:hello@howaicite.com)
+Questions and responsible disclosure: [howaicite@gmail.com](mailto:howaicite@gmail.com)
