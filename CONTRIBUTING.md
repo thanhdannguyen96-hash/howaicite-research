@@ -11,4 +11,4 @@ Before opening a pull request:
 5. Do not change a frozen panel in place; propose a new version.
 6. Add or update deterministic tests when changing `metrics.mjs`.
 
-Use GitHub issues for reproducible defects or method questions. For a security or privacy concern, email [hello@howaicite.com](mailto:hello@howaicite.com) instead of posting sensitive evidence publicly.
+Use GitHub issues for reproducible defects or method questions. For a security or privacy concern, email [howaicite@gmail.com](mailto:howaicite@gmail.com) instead of posting sensitive evidence publicly.
